@@ -2,6 +2,8 @@
 
 Welcome to the official repository for keeping all source code of the problems on [28tech Online Judge](http://oj.28tech.com.vn/).
 
+The course of 28tech you can see in [28Tech Website](https://www.28tech.com.vn/)
+
 ## About
 
 This repository serves as a centralized location for all the problem solutions submitted on the 28tech Online Judge platform. Here, you will find various algorithms and data structures implemented in C++ programming languages to solve a wide range of problems.
@@ -34,7 +36,7 @@ To install the project, follow these steps:
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the 28Tech License. See the [28Tech](https://www.28tech.com.vn/) file for more details.
 
 ## Contact
 
